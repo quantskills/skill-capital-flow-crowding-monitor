@@ -6,7 +6,7 @@ description: >
   buying/selling a name or sector, and whether a trade is getting crowded.
   Pulls margin balances, northbound holdings, and block-trade discounts,
   builds a multi-source capital consensus/divergence and crowding score.
-license: GPL-3.0
+license: GPL-3.0-only
 category: 工具
 metadata:
   organization: QuantSkills
