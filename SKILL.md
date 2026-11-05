@@ -144,3 +144,7 @@ skill-capital-flow-crowding-monitor/
 - 北向持股披露有滞后/口径调整(沪股通/深股通合并),须按披露日对齐。
 - 拥挤度分位需足够历史窗口(建议 ≥250 天)才有统计意义。
 - 只做研究/资金面参考,不构成投资建议。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
